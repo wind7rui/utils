@@ -1,4 +1,4 @@
-package com.wind.utils.validation.annotation;
+package com.wind.util.validation.annotation;
 
 import java.lang.annotation.*;
 

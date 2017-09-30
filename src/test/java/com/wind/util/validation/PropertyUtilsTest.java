@@ -1,4 +1,4 @@
-package com.wind.utils.validation;
+package com.wind.util.validation;
 
 import org.junit.Test;
 

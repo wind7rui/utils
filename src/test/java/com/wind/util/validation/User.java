@@ -1,6 +1,6 @@
-package com.wind.utils.validation;
+package com.wind.util.validation;
 
-import com.wind.utils.validation.annotation.NotNull;
+import com.wind.util.validation.annotation.NotNull;
 
 public class User {
 
