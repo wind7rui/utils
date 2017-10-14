@@ -16,6 +16,12 @@ import javax.xml.transform.sax.SAXSource;
 import java.io.StringReader;
 import java.io.StringWriter;
 
+/**
+ * xml和object相互转换
+ *
+ * @author wind
+ * @since 10.03.2016
+ */
 public class JAXBUtils {
     // 默认编码
     private static final String DEFAULT_ENCODE = "UTF-8";

@@ -18,3 +18,8 @@ JsonUtils.getValueByKeyExpression(json, "father", "father#properties#job#positio
 
 ## 3.JAXBUtils
 xml和object互转工具类  
+
+## 4.NewDozerBeanMapper
+扩展自dozer，实现对List集合的转换
+
+使用方法：使用NewDozerBeanMapper代替原DozerBeanMapper即可
