@@ -1,5 +1,5 @@
 # utils
-工具类集合
+常用工具类集合
 
 # 工具类列表
 ## 1.PropertyUtils
