@@ -23,3 +23,6 @@ xml和object互转工具类
 扩展自dozer，实现对List集合的转换
 
 使用方法：使用NewDozerBeanMapper代替原DozerBeanMapper即可
+
+## 5.NLogger
+日志工具类，NLogger实现了org.slf4j.Logger接口，使用{}作为日志信息占位符，支持N个占位符
