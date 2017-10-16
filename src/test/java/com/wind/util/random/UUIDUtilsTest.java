@@ -15,6 +15,7 @@ public class UUIDUtilsTest {
         LOGGER.info("生成二进制UUID：{}", UUIDUtils.randomUUID(2));
         LOGGER.info("生成八进制UUID：{}", UUIDUtils.randomUUID(8));
         LOGGER.info("生成十进制UUID：{}", UUIDUtils.randomUUID(10));
+        LOGGER.info("生成十二进制UUID：{}", UUIDUtils.randomUUID(12));
     }
 
 }

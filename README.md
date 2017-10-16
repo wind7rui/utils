@@ -26,3 +26,6 @@ xml和object互转工具类
 
 ## 5.NLogger
 日志工具类，NLogger实现了org.slf4j.Logger接口，使用{}作为日志信息占位符，支持N个占位符
+
+## 6.UUIDUtils
+生成指定进制的UUID，生成字符串长度19~128位
