@@ -1,7 +1,7 @@
 # utils
 常用工具类集
 
-# 工具类列表
+# 列表
 ## 1.PropertyUtils
 对标注NotNull注解的属性，检查其值是否为null
 
