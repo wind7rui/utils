@@ -32,3 +32,6 @@ xml和object互转工具类
 
 ## 7.Base64
 提供更快、更高效的Base64编码、解码
+
+## 8.DateUtils
+基于Joda-Time实现的日期工具类，日期格式化、解析及日期比较
