@@ -35,3 +35,6 @@ xml和object互转工具类
 
 ## 8.DateUtils
 基于Joda-Time实现的日期工具类，日期格式化、解析及日期比较
+
+## 9.URLUtils
+url转码、验证工具类
