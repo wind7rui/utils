@@ -51,7 +51,7 @@ public class UnzipUtils {
     }
 
     /**
-     * 解压文件
+     * 解压.zip文件
      *
      * @param filePath 压缩文件路径
      */
