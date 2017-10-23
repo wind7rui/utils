@@ -27,6 +27,7 @@ dependencies {
     // https://mvnrepository.com/artifact/joda-time/joda-time
     compile group: 'joda-time', name: 'joda-time', version: '2.9.9'
 
+    compile "org.kamranzafar:jtar:2.2"
 
 
     compile log4j,slf4j
