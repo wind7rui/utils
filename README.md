@@ -43,4 +43,4 @@ url转码、验证工具类
 解压压缩包的工具类，支持解压tar.gz、.zip
 
 ## 11.WebUtils
-从请求中获取用户的ip、user-agent、Cookie、host
+从请求中获取请求的ip、user-agent、Cookie、host
