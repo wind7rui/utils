@@ -1,6 +1,9 @@
 package com.wind.util.security;
 
-
+/**
+ * @author wind
+ * @since 2015/11/10
+ */
 public class BCDASCII {
 
 
